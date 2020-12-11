@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+This is the official repository for [ItoVault, which puts diversified indexes like the S&P 500 on the blockchain as a ERC-20 crypto token.](https://itovault.com)
+
+Please see the site for documentation and more details on how it works.
+
 <!--
 **itovault/ItoVault** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
